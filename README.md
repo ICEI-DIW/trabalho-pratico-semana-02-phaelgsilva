@@ -3,7 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Raphael Guimarães Reis Dias e Silva
+- Matricula: 886144
 
-## Print da tela da página criad
+## Print da tela da página criada
+
+![alt text](https://github.com/ICEI-DIW/trabalho-pratico-semana-02-phaelgsilva/blob/main/imagem_2025-03-03_190806361.png)
